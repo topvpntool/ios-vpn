@@ -12,7 +12,7 @@
 
 > - 1.[StrongVPN](https://overwallvpn.com/go/strongvpn)：功能全面的iOS VPN，拥有优秀的稳定性和快速的速度， StrongVPN 在中国的可靠性很高。
 > - 2.[PureVPN](https://overwallvpn.com/go/purevpn)：历史悠久的翻墙VPN，价格较为便宜且易于使用，是很多人的苹果VPN选择之一。
-> - 3.[NordVPN](https://overwallvpn.com/go/nordvpn)nordvpn 还允许无限量的设备同时连接，同时性价比也比较高。
+> - 3.[NordVPN](https://overwallvpn.com/go/nordvpn)： 国际知名大厂，还允许无限量的设备同时连接，同时性价比也比较高。
 
 这些iOS VPN可以为中国用户提供持续稳定的翻墙服务，解锁Netflix等流媒体视频服务，以及进行P2P文件共享、种子下载等操作，伪装加密流量，防止ISP追踪，零日志存储，保障您的网络安全。此外，这些iOS VPN易于使用，注册账户并登录即可一键连接使用。
 
