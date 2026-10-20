@@ -10,9 +10,10 @@
 
 在我们经过测试后，以下是一些在中国大陆能够使用的、好用的iOS VPN的推荐🪜:
 
-> - 1.[StrongVPN](https://overwallvpn.com/go/strongvpn)：功能全面的iOS VPN，拥有优秀的稳定性和快速的速度， StrongVPN 在中国的可靠性很高。
-> - 2.[PureVPN](https://overwallvpn.com/go/purevpn)：历史悠久的翻墙VPN，价格较为便宜且易于使用，是很多人的苹果VPN选择之一。
-> - 3.[ExpressVPN](https://overwallvpn.com/go/expressvpn)： 国际知名大厂，还允许无限量的设备同时连接，同时性价比也比较高。
+>  - 1. [Starfirewall](https://starfirewall.com)：适合苹果手机用户的高性价比机场梯子，可搭配 Shadowrocket 等 iOS 代理客户端使用。支持灵活切换不同地区的节点，日常使用无需频繁调整连接设置，订阅价格亲民，适合希望兼顾使用体验与成本的 iPhone、iPad 用户。
+> - 2.[StrongVPN](https://overwallvpn.com/go/strongvpn)：功能全面的iOS VPN，拥有优秀的稳定性和快速的速度， StrongVPN 在中国的可靠性很高。
+> - 3.[PureVPN](https://overwallvpn.com/go/purevpn)：历史悠久的翻墙VPN，价格较为便宜且易于使用，是很多人的苹果VPN选择之一。
+> - 4.[ExpressVPN](https://overwallvpn.com/go/expressvpn)： 国际知名大厂，还允许无限量的设备同时连接，同时性价比也比较高。
 
 这些iOS VPN可以为中国用户提供持续稳定的翻墙服务，解锁Netflix等流媒体视频服务，以及进行P2P文件共享、种子下载等操作，伪装加密流量，防止ISP追踪，零日志存储，保障您的网络安全。此外，这些iOS VPN易于使用，注册账户并登录即可一键连接使用。
 
@@ -48,7 +49,23 @@ iPhone付费VPN是一种非常有效的隐私保护和翻墙工具，它可以�
 
 在众多的VPN品牌中，有几款大品牌特别适合在iOS设备上使用，各方面都表现优异。如果你需要在iPhone或iPad上使用VPN翻墙，可以根据自己的需求来选择下面的品牌。
 
-### 1.[StrongVPN](https://overwallvpn.com/go/strongvpn) – 中国翻墙效果最好，苹果VPN翻墙首选
+### 1. [Starfirewall](https://starfirewall.com) – 适合 iPhone 用户的高性价比机场梯子
+
+如果你使用的是 iPhone 或 iPad，又不想为传统 VPN 支付昂贵的订阅费用，那么 Starfirewall 是一个值得考虑的选择。它采用机场常见的订阅模式，可以搭配 Shadowrocket 等 iOS 代理客户端使用。对于经常需要访问海外网站的苹果用户来说，这种方式既灵活，也方便日常管理。
+
+![Starfirewall](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-homepage.jpg)
+
+苹果手机使用机场和安卓有一点不同：**iOS 对网络代理的管理相对严格，通常需要借助第三方客户端。** 以 Shadowrocket 为例，用户安装后只需要导入订阅链接，就可以获取节点列表，不必逐个填写服务器地址和端口。后续如果服务商更新了线路，也可以通过刷新订阅获取最新配置，省去了不少麻烦。
+
+我觉得 Shadowrocket 比较实用的地方，是它能够根据访问的网站自动选择连接方式。比如平时使用微信、支付宝、国内银行 App 时保持直连，而访问 Instagram、YouTube、Google 等海外服务时才使用代理。这样不需要频繁打开和关闭连接，也能避免部分国内应用因为使用海外 IP 而出现异常。
+
+另外，iPhone 用户经常会在 Wi-Fi 和蜂窝网络之间切换，这也是影响连接体验的一个细节。有些线路在家里的宽带下表现不错，换成移动数据后却可能出现延迟升高或连接失败。因此，我更建议在自己常用的网络环境下分别测试，而不是只根据节点显示的延迟选择线路。
+
+价格方面，Starfirewall 走的是比较亲民的路线。虽然没有免费套餐，但对于每天都需要访问海外服务的人来说，合理的订阅费用通常比反复寻找不稳定的免费节点更省心。不过需要注意，Shadowrocket 本身是独立的付费应用，其购买费用通常不包含在机场订阅中。
+
+总体来看，Starfirewall 适合希望在苹果设备上自由选择线路、控制使用成本的用户。尤其是已经熟悉 Shadowrocket 的人，使用这类订阅服务通常不需要重新学习复杂的操作。
+
+### 2.[StrongVPN](https://overwallvpn.com/go/strongvpn) – 中国翻墙效果最好，苹果VPN翻墙首选
 
 翻墙不得不提及的是StrongVPN，它是目前为止最好用的iPhone翻墙软件之一。StrongVPN一直非常坚挺，可以在中国使用，并且在VPN行业内是速度最快的之一。笔者自己也是iPhone和iPad的用户，几年来使用的最多的翻墙工具就是StrongVPN，非常稳定。
 
@@ -86,7 +103,7 @@ StrongVPN为所有主流设备都提供了简单易用的APP客户端，包括iP
 
 日常建议是：**优先使用 iPhone 自带 IKEv2，简单、省电；遇到网络波动，再切换 OpenVPN + Scramble。**
 
-### 2.[PureVPN](https://overwallvpn.com/go/purevpn) – 最便宜的苹果VPN
+### 3.[PureVPN](https://overwallvpn.com/go/purevpn) – 最便宜的苹果VPN
 
 在VPN市场中，PureVPN是一款非常出色的选择，特别是对于iOS设备用户而言。PureVPN是一款历史悠久的VPN服务，其技术非常成熟，在长期与中国防火墙斗争中也积累了丰富的经验，可以帮助用户有效地翻墙，畅享国外的资源。
 
@@ -102,7 +119,7 @@ PureVPN在全球的服务器数量超过了6500台，分布于78个国家地区�
 
 综上所述，PureVPN是一款性价比极高的VPN服务，它适用于多种设备，能够适应不同的用户层面与需求，特别是苹果iOS用户。PureVPN的价格非常便宜，且可同时连接10台设备，具有较好的兼容性和稳定性，可以帮助用户克服网络中的各种难题。PureVPN还有丰富的特色功能，确保用户使用时的隐私与安全，可以访问全球各地的网站与流媒体内容，具有非常高的性价比。
 
-### 3.[ExpressVPN](https://overwallvpn.com/go/expressvpn) – 不限设备的苹果VPN
+### 4.[ExpressVPN](https://overwallvpn.com/go/expressvpn) – 不限设备的苹果VPN
 
 ExpressVPN是一款相当老牌的VPN了，目前已经成为了最好用的苹果VPN之一。ExpressVPN采用自主研发的翻墙协议，可以帮助用户绕过GFW的封锁，同时提供较为稳定和快速的连接。
 
